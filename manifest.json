@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-qr-scanner",
+	"name": "QR Code Scanner",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Scan a QR Code and insert it to the cursor position.",
+	"author": "lzc256",
+	"authorUrl": "https://lzc256.com",
+	"fundingUrl": "https://lzc256.com",
 	"isDesktopOnly": false
 }
